@@ -48,7 +48,7 @@
     <distributionManagement>
   <repository>
     <id>nexus</id>
-    <url>http://40.78.130.128:8081/nexus/content/repositories/releases</url>
+    <url>http://20.51.189.249:8081/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>
 
